@@ -9,7 +9,10 @@ function Portfolio({data, key}) {
     <img src= {data.filepath} alt="gallery for projects" className='gallery'/>
     <button className='btn btn-outline-warning btn-sm'>
       <a href={data.link} target="_blank" rel="noreferrer">Link</a>
-    </button> 
+    </button>
+    <button className='btn btn-outline-warning btn-sm'>
+      <a href={data.repo} target="_blank" rel="noreferrer">Github</a>
+    </button>  
     </section>
   );
 }
