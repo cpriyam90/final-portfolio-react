@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Usage
-This api is invoked from the terminal and links to the Mongo database. With the use of Insomnia the user can succesfully update the thoughts and reactions in their database. Start by installing node packages through npm i and then start the application from the terminal by entering npm start.
+This application can be locally invoked by running npm start. However, the deployed heroku link can also be used. 
 
 
 ## Deployed-Link
