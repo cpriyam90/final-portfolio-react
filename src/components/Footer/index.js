@@ -1,6 +1,3 @@
-//https://www.youtube.com/watch?v=58RRl1JTJvY - video how to use font awesome
-// font awesome for icons
-
 import React from "react";
 
 

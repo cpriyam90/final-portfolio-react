@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This portfolio was created using HTML, CSS, JSX and REACT to showcase a potential employer our skills as we near graduation.
 
-In the project directory, you can run:
+## Table of Contents
+* [Usage](#Usage)
+* [Deployed-Link](#Video-Link)
+* [Credits/Citations](#Credits/Citations)
+* [Features](#Features)
+* [Applications-Used](#Applications-Used)
+* [Screenshot](#Screenshot)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
+This api is invoked from the terminal and links to the Mongo database. With the use of Insomnia the user can succesfully update the thoughts and reactions in their database. Start by installing node packages through npm i and then start the application from the terminal by entering npm start.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Deployed-Link
+* **[Click here for deployed link](https://pacific-cliffs-12911.herokuapp.com/#project-challenges)**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Credits/Citations
+* TA Charlie for explaining state, and for troubleshooting bugs 
+* TA Charlie for helping create Portfolio and Project components
+* Instructor Diego for helping with errors for loading images in project and for conitnuing to troubleshoot these errors with me
+* Bootstrap documentation
+* module 20 lesson in bootcamp spot - https://courses.bootcampspot.com/courses/1196/pages/20-dot-1-3-set-up-the-project-using-create-react-app?module_item_id=463809
+* in class activities for module 20
+* Module lessons for understanding components and contact-form in React
+* React documentation
+* W3 schools for adding links to HTML for opening a page in a new link and for adding email
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
+This portfolio contains 6 of my projects completed in this bootcamp which I can present to a potential employer. The portfolio also contains my Github page, and links to deployed pages and github repository for each of my projects. The contact form will also enable employers to contact me.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Applications-Used
+* Node Packages
+* Bootsrap
+* CSS
+* JS
+* React
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshot
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![alt="screenshot of Portfolio webpage"](./src/assets/about/screenshot.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
