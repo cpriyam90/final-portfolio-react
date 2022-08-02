@@ -7,11 +7,13 @@ import React from "react";
 const Footer = () => (
   <div className="footer">
     <a href="https://github.com/cpriyam90" className="github">
-    <i className="fa-brands fa-github"></i>
+    Github Profile
     </a>
     <a href="https://www.linkedin.com/" className="linkedin">
-    <i className="fa-brands fa-linkedin"></i>
+    LinkedIn
     </a>
+    <a href = "mailto: abc@example.com" className="email-me">
+    Email</a>
   </div>
 );
 

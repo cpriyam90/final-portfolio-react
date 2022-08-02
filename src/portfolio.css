@@ -112,6 +112,9 @@
         bottom: 0;
         left: 0;
         width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
       }
     
       .images {
@@ -145,3 +148,17 @@
         margin:11%;
         padding: 1%;
       }
+      
+      .contact-form {
+        margin: 5%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .contact-me {
+        font-size: 2rem;
+        flex-basis: 1;
+      }
+
+      
