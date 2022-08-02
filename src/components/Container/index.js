@@ -5,10 +5,10 @@ import Portfolio from '../Portfolio';
 function Container() {
 
     return (
-    <div id="#portfolio">
+    <div id="#challenges">
         {
             Projects.map ((project, index) => (
-                <Portfolio data={project} key={index} />
+                <Portfolio data={project} key={index}/>
         
             ))
         }

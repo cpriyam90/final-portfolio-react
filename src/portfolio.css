@@ -161,4 +161,19 @@
         flex-basis: 1;
       }
 
+      .project-container {
+        background-color: antiquewhite;
+        margin: 1%;
+        padding:0.5%;
+        display: flex;
+        align-items: center;
+      }
+
+      .gallery-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #283044ff;
+      }
+
       

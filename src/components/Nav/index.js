@@ -18,7 +18,7 @@ function Nav () {
             </a>
           </li>
           <li className="mx-2 nav-item">
-            <a data-testid="portfolio" href="#portfolio" className='nav-link text-secondary'>
+            <a data-testid="portfolio" href="#challenges" className='nav-link text-secondary'>
               Portfolio
             </a>
           </li>
