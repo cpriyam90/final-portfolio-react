@@ -17,7 +17,7 @@ const Projects =
     name: 'Travel-Easy',
     description: 'Travel app made using HTML, CSS, JS and API calls from Hotels.com and Weather.com',
     filepath: './assets/vacation.jpg',
-    link: "https://github.com/cpriyam90/Travel-Easy-Project1"
+    link: "https://cpriyam90.github.io/Travel-Easy-Project1/"
 },
 {
     name: 'Budget-Tracker',
