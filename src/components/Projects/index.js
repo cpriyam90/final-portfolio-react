@@ -9,11 +9,11 @@ const Projects =
     repo: "https://github.com/cpriyam90/run-buddy"
 },
 {
-    name: 'Work-Day Planner',
-    description: 'Planner that uses HTML,CSS,JQuery, and Localstorage',
-    filepath: './assets/plan.jpg',
-    link: "https://cpriyam90.github.io/work-day-scheduler/",
-    repo: "https://github.com/cpriyam90/work-day-scheduler"
+    name: 'Purrfect Paws',
+    description: 'Interactive MERN project for a pet grooming center',
+    filepath: './assets/pet.jpg',
+    link: "https://purrfect-paws.herokuapp.com/",
+    repo: "https://github.com/cpriyam90/purrfect-paw-project"
 },
 {
     name: 'Travel-Easy',
